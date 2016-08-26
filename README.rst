@@ -108,7 +108,7 @@ code.
 Projects Using Curio
 --------------------
 
-Please feel free to add your project here.
+Redstone-Crafted: https://github.com/Redstone-Crafted/Redstone
 
 The Big Question: Why?
 ----------------------
